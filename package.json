@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-advance-ui",
+  "version": "1.1.0",
+  "description": "its portfolio smart UI ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
